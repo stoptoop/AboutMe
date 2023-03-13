@@ -1,0 +1,396 @@
+body{
+    background-color: rgb(21, 21, 21);
+}
+
+
+
+
+
+
+.rectangle {
+    margin: auto;
+    height: auto;
+    width: 240px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 7px #ffffff;
+    transition: all 2s;
+}
+
+.rectangle:hover {
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 0px #ffffff;
+    transition: all 1s;
+}
+
+
+
+.text_center{
+    text-align: center;
+    margin-right: 15px;
+}
+
+
+.button_main{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    color: #fff;
+    font-family: Courier, monospace;
+    transition: all 2s;
+}
+.button_main:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+.my_nickname-in-ds{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+}
+
+.avatar_discord{
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    width: 240px;
+}
+
+.title_under_doscord_avatar{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+      
+}
+
+
+.in-my-nick-my_discrod_krensol{
+    font-size: 23px;
+    color: white;
+    text-decoration: none;
+    color: #fff;
+    font-family: Courier, monospace;
+    transition: all 1s;
+}
+
+.in-my-nick-my_discrod_krensol:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+
+.my_profesion{
+    margin-top: 30px;
+}
+.my-profesion_href{
+    font-size: 23px;
+    color: white;
+    text-decoration: none;
+    color: #fff;
+    font-family: Courier, monospace;
+    transition: all 1s;
+}
+.my-profesion_href:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+
+
+.hr{
+    margin-top: 30px;
+    border-color: rgb(255, 158, 221);
+    box-shadow:
+    0 0 5px #ff6dbb,
+    0 0 10px #ff6dbb,
+    0 0 15px #ff6dbb;
+    transition: all 2s;
+}
+.hr:hover{
+    border-color: rgb(255, 255, 255);
+    box-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff;
+    transition: all 2s;
+}
+.my-discord {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: auto;
+    width: 200px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 7px #ffffff;
+    transition: all 2s;
+}
+.contentblock-my-ds{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: Courier, monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+        transition: all 2s;
+}
+.contentblock-my-ds:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+
+
+.my-telegram {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: auto;
+    height: auto;
+    width: 240px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 7px #ffffff;
+    transition: all 2s;
+}
+.contentblock-my-tg{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: Courier, monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+        transition: all 1s;
+}
+.contentblock-my-tg:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+
+.my-github {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: auto;
+    height: auto;
+    width: 280px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 7px #ffffff;
+    transition: all 2s;
+}
+.contentblock-my-gh{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: Courier, monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+        transition: all 1s;
+}
+.contentblock-my-gh:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+.my-youtube {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: auto;
+    height: auto;
+    width: 320px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 7px #ffffff;
+    transition: all 2s;
+}
+.contentblock-my-yt{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: Courier, monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+        transition: all 1s;
+}
+.contentblock-my-yt:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
+
+
+.my-tiktok {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: auto;
+    height: auto;
+    width: 360px;
+    background-color: #000;
+    border-radius: 10px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 0 0 7px #ffffff;
+    transition: all 2s;
+}
+.contentblock-my-tt{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    font-family: Courier, monospace;
+    text-decoration: none;
+    color: #fff;
+    text-shadow:
+        0 0 5px #ff8dec,
+        0 0 10px #fff,
+        0 0 20px #ff8dec,
+        0 0 30px #fff,
+        0 0 40px #ff8dec,
+        0 0 30px #ec41ff,
+        0 0 40px #fff,
+        0 0 50px #ec41ff;
+        transition: all 1s;
+}
+.contentblock-my-tt:hover{
+    color: #fff;
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #fff,
+        0 0 40px #fff,
+        0 0 80px #fff,
+        0 0 90px #fff,
+        0 0 100px #fff,
+        0 0 160px #fff;
+        transition: all 1s;
+}
